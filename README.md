@@ -16,7 +16,7 @@ Este projeto é uma simulação do Sistema Solar em C++. O objetivo foi aprimora
 
 | Visão Geral                          | Visão da Terra e da Lua        |
 |--------------------------------------|------------------------------------|
-| ![Visão Geral](imgs/sistema_solar.png)       | ![Visão da Terra e da Lua](imgs/terra_lua.png)     |
+| ![Visão Geral](imgs/sistema_solar.png)       | ![Visão da Terra e da Lua](imgs/terra_e_lua.png)     |
 
 ---
 
@@ -57,7 +57,7 @@ cd SolarSystem_OpenGL
 │   └── venus.jpg </br>
 ├── imgs/ </br>
 │   ├── sistema_solar.png </br>
-│   └── terra_lua.png </br>
+│   └── terra_e_lua.png </br>
 ├── README.md </br>
 
 
